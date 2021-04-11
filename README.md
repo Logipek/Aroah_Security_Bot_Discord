@@ -40,7 +40,7 @@ Créateur du bot ChillBot et de Invite Count (je n'inclue pas les autres personn
 	Installation
 	1- npm install
 	2- configurer la base de données
-	   -> Mettre le fichier aroah Sql dans votre Phpmyadmin 
+	   -> Mettre le fichier aroah.sql dans votre Phpmyadmin 
 	3- Liés la base de données au fichier du Bot
 	  a- main js -> pour lier la base de données 	 
 	  b- config .Json -> pour le token, google api key, owner Id, et le support serveur
