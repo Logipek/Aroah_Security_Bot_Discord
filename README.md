@@ -41,5 +41,5 @@ Créateurs du bot: Enil#0666 (id: 733396325411979335) et Louchetop#1168 (Id: 294
 	  b- config .Json -> pour le token, google api key, owner Id, et le support serveur
 	  
 # Autre
-Serveur: https://discord.gg/7T6qUWutEW
+Serveur: https://discord.gg/7T6qUWutEW<br>
 Laisser les credits des créateurs dans la commande stats ou autres sous peine de bannissement ;)
