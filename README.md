@@ -22,7 +22,7 @@ Le bot basé sur de la sécurité de serveur (anti-raid, antispam etc.)<br>
 
 Créateurs du bot: Enil#0666 (id: 733396325411979335) et Louchetop#1168 (Id: 294716504036081664)<br>
 
-__Néanmoins de même attention à la personne suivante__
+__Néanmoins attention à la personne suivante__
 
 ![Capture d’écran 2021-04-11 224430](https://user-images.githubusercontent.com/65201353/114320729-a33a6b80-9b17-11eb-8044-cf06a0eea12c.png)
 
