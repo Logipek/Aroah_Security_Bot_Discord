@@ -10,7 +10,7 @@ Durant  plusieurs mois nous avons pris le plaisir de développer un Bot Sécurit
 Nous avons beaucoup appris à travers ce projet. Beaucoup de temps et d’énergie ont été consacré pour arrivé à nos objectifs.<br>
 Nous avons cependant par manque de moyen du recoûrir à des hébergements gratuits grâce à des contacts qui nous proposent leurs aides.
 
-Le 11/04/2021 le propriétaire du serveur sur lequel reposer le bot Aroah (Le leakeur: Alboom#2121, Id: 351840777921626113) fit voler;<br>
+Le 11/04/2021 le propriétaire du serveur sur lequel reposer le bot Aroah fit voler;<br>
 Des menaces nous ont été faites portant sur un potentiel leak des fichiers.<br>
 Ce projet nous tenait à cœur, c'est une pure création,et nous voulons avoir le mérite de sa création.<br>
 
@@ -22,11 +22,6 @@ Le bot basé sur de la sécurité de serveur (anti-raid, antispam etc.)<br>
 
 Créateurs du bot: Enil#0666 (id: 733396325411979335) et Louchetop#1168 (Id: 294716504036081664)<br>
 
-__Néanmoins attention à la personne suivante__
-
-![Capture d’écran 2021-04-11 224430](https://user-images.githubusercontent.com/65201353/114320729-a33a6b80-9b17-11eb-8044-cf06a0eea12c.png)
-
-Créateur du bot ChillBot et de Invite Count (je n'inclue pas les autres personnes qui sont présentes sur leur projet)
 # Liste des commandes
 
 ![Capture d’écran 2021-04-11 223222](https://user-images.githubusercontent.com/65201353/114320333-cebc5680-9b15-11eb-9328-c37d0f56f8ea.png)
