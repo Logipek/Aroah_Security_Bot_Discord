@@ -1,45 +1,61 @@
 # AroahSecurityBot
 
-# Petite description
-Aroah est un robot discord de sécurité en langage "eris", entièrement optimisé et facile à utiliser<br>
-
 # Histoire
-Nous sommes les créateurs du bot Aroah "Enil#0666" avec "Louchetop#1168", C'est un choix difficile que je fais actuellement quand je procède à la pratique du self Leak, Aroah était un bot discord avec une première version fait en js qui favorisait l'utilisation multitâche (fun, image etc.) et par la suite une version a été sortie en eris plus optimiser le 27/09/2020 qui oriente le bot sûr de la sécuriser de serveur (antiraid, antispam etc...)
+Je suis Enil aliase Hugo, l'un des créateurs d'Aroah, un bot Discord qui a marqué la communauté malgré sa courte existence. Aux côtés de Louchetop (noé), nous avons insufflé vie à Aroah, un projet né de notre passion commune pour l'informatique et du désir de créer quelque chose d'unique.
 
-Durant  plusieurs mois nous avons pris le plaisir de développer un Bot Sécurité.<br>
-Nous avons beaucoup appris à travers ce projet. Beaucoup de temps et d’énergie ont été consacré pour arrivé à nos objectifs.<br>
-Nous avons cependant par manque de moyen du recoûrir à des hébergements gratuits grâce à des contacts qui nous proposent leurs aides.
+La première version d'Aroah, fruit de notre apprentissage en JavaScript, était un bot multitâche capable de divertir et d'assister les utilisateurs. Il offrait un panel de fonctionnalités ludiques et pratiques, mais notre ambition ne s'arrêtait pas là.
 
-Le 11/04/2021 le propriétaire du serveur sur lequel reposer le bot Aroah fit voler;<br>
-Des menaces nous ont été faites portant sur un potentiel leak des fichiers.<br>
-Ce projet nous tenait à cœur, c'est une pure création,et nous voulons avoir le mérite de sa création.<br>
+Poussés par notre envie de perfection et notre soif d'innovation, nous avons décidé de développer une nouvelle version optimisée en Eris, un langage connu pour ses performances accrues. Le 27 septembre 2020, Aroah renaît, cette fois-ci orienté vers la sécurité des serveurs Discord, un domaine crucial pour la protection des communautés en ligne.
 
-Le projet est arrivé à sa fin, plus tôt que prévu, c’était une volonté de l'aboutir, et un plaisir de vous le partagez.<br>
-Prenais en soin, et servez-vous en pour vos potentiels projets !<br>
+Durant plusieurs mois, Aroah a été au centre de nos vies. Nous avons consacré tout notre temps et notre énergie à son développement, peaufinant chaque ligne de code, apprivoisant de nouvelles technologies et restant à l'écoute des besoins de la communauté Discord. Chaque défi relevé, chaque obstacle surmonté renforçait notre passion et notre détermination à faire d'Aroah un outil indispensable.
 
-Le bot est sous langage Éris permettant une optimisation complète et optimale.<br>
-Le bot basé sur de la sécurité de serveur (anti-raid, antispam etc.)<br>
+Le 11 avril 2021, un événement inattendu a frappé notre projet de plein fouet : le serveur hébergeant Aroah a été mis hors service. Des menaces de divulgation des fichiers du bot pesaient sur notre création, nous plaçant face à un choix difficile. Pour protéger notre travail et le fruit de nos efforts, nous avons pris la décision, la mort dans l'âme, de mettre fin à Aroah.
 
-Créateurs du bot: Enil#0666 (id: 733396325411979335) et Louchetop#1168 (Id: 294716504036081664)<br>
+Malgré la fin prématurée d'Aroah, notre aventure n'a pas été vaine. Cette expérience enrichissante nous a permis d'acquérir des compétences inestimables, de tisser des liens durables avec la communauté Discord et de laisser notre empreinte dans le monde numérique.
+
+Aujourd'hui, nous partageons le code source d'Aroah sur GitHub, offrant à d'autres passionnés la possibilité de poursuivre l'aventure et de faire d'Aroah une légende intemporelle.
+
+L'histoire d'Aroah est avant tout une histoire humaine, une ode à la passion, à la persévérance et au partage. C'est le récit d'un rêve brisé, mais qui a su inspirer et laisser sa trace dans le monde des bots Discord.
 
 # Liste des commandes
 
 ![Capture d’écran 2021-04-11 223222](https://user-images.githubusercontent.com/65201353/114320333-cebc5680-9b15-11eb-9328-c37d0f56f8ea.png)
 
 # Installation
-	Conditions
-	NodeJS (testé avec la v12)
-	Base de données (testé avec MySQL5.7+, MariaDB10.2+ devrait fonctionner)
-	Une clés Google Api
 
-	Installation
-	1- npm install
-	2- configurer la base de données
-	   -> Mettre le fichier aroah.sql dans votre Phpmyadmin 
-	3- Liés la base de données au fichier du Bot
-	  a- main js -> pour lier la base de données 	 
-	  b- config .Json -> pour le token, google api key, owner Id, et le support serveur
+Pour utiliser Aroah, vous aurez besoin de :
+
+    NodeJS (version 12 ou ultérieure)
+    Une base de données (MySQL 5.7+ ou MariaDB 10.2+)
+    Une clé Google API
+
+Installation
+
+Suivez ces étapes pour installer Aroah :
+
+    Installez les dépendances NodeJS: npm install
+
+ Configurez la base de données:
+
+    Importez le fichier aroah.sql dans votre serveur de base de données (par exemple, PhpMyAdmin).
+    Modifiez le fichier config.json pour spécifier les informations de connexion à votre base de données.
+
+Liez la base de données au bot:
+
+    Dans le fichier main.js, modifiez les variables de connexion à la base de données.
+    Dans le fichier config.json, définissez le token du bot, la clé Google API, l'ID du propriétaire et l'ID du serveur de support.
+
+Remarques
+
+    Assurez-vous de bien installer toutes les dépendances avant de lancer le bot.
+    Vous pouvez modifier les paramètres du bot dans le fichier config.json.
+    Pour plus d'informations, consultez la documentation fournie avec le bot.
+
+Informations complémentaires :
+
+    Le bot utilise le framework Eris pour Discord.
+    Le bot est open source et disponible sur GitHub.
+    N'hésitez pas à contacter les développeurs du bot si vous rencontrez des problèmes.
 	  
 # Autre
-Serveur: https://discord.gg/7T6qUWutEW<br>
 Laisser les credits des créateurs dans la commande stats ou autres sous peine de bannissement ;)
